@@ -1,5 +1,7 @@
 Firmware:
 
+Possible Reduced Keyspace: BCDFLMNPQRSTVWXY
+
 List of known combinations
 SSID     Passphrase MAC address       AP PIN   Serial Number
 ------------------------------------------------------------
