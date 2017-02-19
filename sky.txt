@@ -1,5 +1,3 @@
-<html lang="en">
-
 SSID     Passphrase MAC address       AP PIN   Serial Number
 ------------------------------------------------------------
 SKY0F122 YYMXTFSMFP
@@ -30,5 +28,3 @@ SKYD210A WFNRPWRBPD
 SKYE3C9A PSYLBPMYBM
 SKYF1F68 PVCCQWMCFF
 SKYF6C6A NTRBNBWNTF
-
-</html>
