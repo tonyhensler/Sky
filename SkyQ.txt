@@ -1,3 +1,5 @@
+Firmware: 
+
 SSID     Passphrase MAC address       AP PIN   Serial Number
 ------------------------------------------------------------
 SKY0F122 YYMXTFSMFP
