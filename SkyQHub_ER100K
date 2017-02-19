@@ -1,5 +1,6 @@
-Firmware: 
+#Firmware:# 
 
+#List of known combinations#
 SSID     Passphrase MAC address       AP PIN   Serial Number
 ------------------------------------------------------------
 SKY0F122 YYMXTFSMFP
@@ -35,3 +36,22 @@ SKYF6C6A NTRBNBWNTF
 SKY????? ?????????? 90:21:06:89:94:A8          AC10163D009378
 SKY????? ?????????? C0:3E:0F:F8:D0:C0          AC1015CD016512
 SKY????? ?????????? 90:21:06:FC:6B:D0          BC10166D001722
+
+#Conversion Chart#
+First hex value in SSID -> Last letter of PSK
+0 = P
+1 = Q
+2 = R
+3 = S
+4 = T
+5 = N
+6 = V
+7 = W
+8 = X
+9 = Y
+A = L
+B = B
+C = C
+D = D
+E = M
+F = F
