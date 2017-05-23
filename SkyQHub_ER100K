@@ -1,8 +1,36 @@
 Firmware:
 
-Possible Reduced Keyspace: BCDFLMNPQRSTVWXY
+Reduced Keyspace: BCDFLMNPQRSTVWXY
 
-List of known combinations
+Frequency Analysis
+------------------------------------------------------------
+n : 54
+b : 42
+y : 40
+w : 38
+p : 32
+c : 30
+f : 29
+l : 29
+x : 28
+m : 28
+d : 28
+q : 27
+s : 24
+t : 24
+r : 24
+v : 23
+g : 0
+e : 0
+j : 0
+z : 0
+u : 0
+o : 0
+k : 0
+i : 0
+a : 0
+h : 0
+
 SSID     Passphrase MAC address       AP PIN   Serial Number
 ------------------------------------------------------------
 SKY0F091 XRPPWFSDLP
@@ -77,3 +105,56 @@ C = C
 D = D
 E = M
 F = F
+
+Raw copy/paste 
+------------------------------------------------------------
+XRPPWFSDLP
+YYMXTFSMFP
+YFWWSCSCYP
+YPSWMCNLQQ
+WQTQPBCCXQ
+WSPPNWNBRQ
+XLWRCRFMRQ
+XNBTVCDYFQ
+YSXMYNYTFR
+CYBVQDNWNR
+CPLCBDXYFS
+LRQCQQYYPS
+XBNCCNYWMS
+LVMYNNNXPS
+WPWMRRNMDT
+BVSLCMTQWT
+XDVNNVTLWN
+NTPNNFBFDN
+MMTWNDSNWN
+VPDWTSPQWN
+NLTWPPBRSV
+WNFYCVNBLV
+NYVLDYQXXV
+CVFTFNBSXW
+XLNYWNXYQW
+SLDNXRBBFW
+QNDXTFMSLX
+RNQMYPTFNY
+LMXVDPVLTY
+VFFCMPBXQL
+BBCYYBQWBL
+CLLFYWQSSL
+XYLPBXVFNL
+NQRYMTRNYL
+VNTDYXBTVB
+PDDVWXPRNB
+YMDWDRYNSB
+TBDCDQBTRB
+NNLDCXBNPB
+WBTYMSMQDB
+CLNBRRFVXC
+NDWBSYCWWC
+BCPNWBVLPD
+WFNRPWRBPD
+PSYLBPMYBM
+QXFFDMNYYM
+PVCCQWMCFF
+NTRBNBWNTF
+WBRNXBDMYF
+MLMCNBYQDF
