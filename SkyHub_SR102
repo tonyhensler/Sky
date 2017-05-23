@@ -1,7 +1,6 @@
 Firmware: https://github.com/mattmattandmatt/sky-sr102-router/raw/master/_burn-image/sky-stock-recovery.img
 
 Frequency Analysis
-```
 f : 27
 c : 23
 t : 23
@@ -28,7 +27,6 @@ k : 0
 n : 0
 l : 0
 o : 0
-```
 
 SSID     Passphrase MAC address       AP PIN   Serial Number
 ------------------------------------------------------------
