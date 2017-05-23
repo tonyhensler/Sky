@@ -1,5 +1,35 @@
 Firmware: https://github.com/mattmattandmatt/sky-sr102-router/raw/master/_burn-image/sky-stock-recovery.img
 
+Frequency Analysis
+```
+f : 27
+c : 23
+t : 23
+d : 22
+a : 21
+b : 20
+s : 19
+r : 19
+x : 19
+y : 19
+p : 18
+u : 17
+v : 16
+q : 14
+e : 14
+w : 10
+j : 2
+z : 1
+m : 0
+h : 0
+g : 0
+i : 0
+k : 0
+n : 0
+l : 0
+o : 0
+```
+
 SSID     Passphrase MAC address       AP PIN   Serial Number
 ------------------------------------------------------------
 SKY0FB54 WYBDWBYX 
