@@ -1,2 +1,2 @@
 # Sky Wireless Routers
-Sky Wireless Router Key Collection
+Sky Wireless Router WPA Key Collection
